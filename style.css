@@ -1,0 +1,41 @@
+nav{
+    background-color: pink;
+    width: 150px;
+    height: 500px;
+    text-align: center;
+}
+
+.box1{
+    display: flex;
+}
+
+.box3{
+    display: flex;
+}
+header{
+    width: 850px;
+    height: 100px;
+    background-color: rgb(237, 229, 151);
+    display: flex;
+}
+
+article{
+    background-color: rgb(199, 198, 198);
+    width: 650px;
+    height: 300px;
+    text-align: center;
+}
+
+aside{
+    background-color: rgb(87, 219, 219);
+    width: 200px;
+    height: 300px;
+    text-align: center;
+}
+
+footer{
+    width: 850px;
+    height: 100px;
+    background-color: rgb(237, 229, 151);
+    display: flex;
+}
